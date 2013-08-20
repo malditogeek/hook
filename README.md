@@ -3,3 +3,4 @@ hook
 
 A
 B
+C
