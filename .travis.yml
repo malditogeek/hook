@@ -4,4 +4,12 @@ node_js:
   - "0.10"
 
 script:
-  - "make.sh"
+  - "/bin/bash ./make.sh"
+
+notifications:
+  webhooks: 
+    urls:
+      - http://4zd6.localtunnel.com/endpoint/34a4a73401b142666b43/5265364eb313c36a2a000010/
+    on_success: [always|never|change] # default: always
+    on_failure: [always|never|change] # default: always
+    on_start: [true|false] # default: false
