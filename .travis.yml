@@ -9,7 +9,7 @@ script:
 notifications:
   webhooks: 
     urls:
-      -https://webhooks-beta.trou.pe/endpoint/af876e84108e3ec8b522/5282540844a65d9f74000102/
+      - https://webhooks-beta.trou.pe/endpoint/af876e84108e3ec8b522/5282540844a65d9f74000102/
     on_success: always
     on_failure: always
     on_start: true
