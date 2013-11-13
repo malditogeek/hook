@@ -10,6 +10,7 @@ notifications:
   webhooks: 
     urls:
       - https://webhooks-beta.trou.pe/endpoint/af876e84108e3ec8b522/5282540844a65d9f74000102/
+      - http://udbo.localtunnel.me/endpoint/d18cd52f6504fc3a9811/5265364eb313c36a2a000010/
     on_success: always
     on_failure: always
     on_start: true
