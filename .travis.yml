@@ -9,7 +9,7 @@ script:
 notifications:
   webhooks: 
     urls:
-      - https://ykxn.localtunnel.me/endpoint/b4a57bfe9aa348bd2060/52a5a2f335ab141391aece9f/
+      - https://apzgblgofi.localtunnel.me/e/1803622a0d6ebc3df13b
     on_success: always
     on_failure: always
     on_start: true
