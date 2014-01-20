@@ -9,7 +9,7 @@ script:
 notifications:
   webhooks: 
     urls:
-      - https://geoqatmteu.localtunnel.me/e/1803622a0d6ebc3df13b
+      - https://kcmbpmcwov.localtunnel.me/e/1803622a0d6ebc3df13b
     on_success: always
     on_failure: always
     on_start: true
